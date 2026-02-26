@@ -7,15 +7,15 @@ from datetime import datetime
 DB_FILE = "master_database.csv"
 
 USERS = {
-    "Admin": {"pass": "admin123", "role": "admin", "school": "ALL"},
-    "User 1": {"pass": "p1", "role": "user", "school": "School_A"},
-    "User 2": {"pass": "p2", "role": "user", "school": "School_B"},
-    "User 3": {"pass": "p3", "role": "user", "school": "School_C"},
-    "User 4": {"pass": "p4", "role": "user", "school": "School_D"},
-    "User 5": {"pass": "p5", "role": "user", "school": "School_E"},
-    "User 6": {"pass": "p6", "role": "user", "school": "School_F"},
-    "User 7": {"pass": "p7", "role": "user", "school": "School_G"},
-    "User 8": {"pass": "p8", "role": "user", "school": "School_H"},
+    "EPFO JALAUN": {"pass": "Admin1988", "role": "admin", "school": "ALL"},
+    "KGBV MADORA (DAKOR)": {"pass": "Madora123", "role": "user", "school": "School_A"},
+    "KGBV TEEHAR (RAMPURA": {"pass": "Teehar123", "role": "user", "school": "School_B"},
+    "KGBV BANGRA (NADIGAON)": {"pass": "Bangara123", "role": "user", "school": "School_C"},
+    "KGBV PINDARI (KONCH)": {"pass": "Pindari123", "role": "user", "school": "School_D"},
+    "KGBV CHHAUNK (KADAURA)l": {"pass": "Chhaunk123", "role": "user", "school": "School_E"},
+    "KGBV CHURKHI (MAHEWA)": {"pass": "Churkhi123", "role": "user", "school": "School_F"},
+    "KGBV GURHA (TA JALAUN)": {"pass": "Gurha123", "role": "user", "school": "School_G"},
+    "KGBV KONCH (TA KONCH)": {"pass": "Konch123", "role": "user", "school": "School_H"},
 }
 
 # --- DATABASE FUNCTIONS ---
